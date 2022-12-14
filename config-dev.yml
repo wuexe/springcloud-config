@@ -1,3 +1,2 @@
 config:
-  info:
-     "main.info"
+  info: main.info
