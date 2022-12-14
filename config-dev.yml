@@ -1,1 +1,3 @@
-www
+config:
+  info:
+     "main.info"
